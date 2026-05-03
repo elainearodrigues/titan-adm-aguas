@@ -1,4 +1,6 @@
 # JSX Base – TITAN
+Domínio: Águas
+Interface: Administrador
 
 Este diretório contém os arquivos JSX originais utilizados como base para o desenvolvimento dos módulos do sistema TITAN.
 
